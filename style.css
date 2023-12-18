@@ -1,0 +1,694 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto Slab', serif;
+}
+.nv-logo h1{
+    text-transform: capitalize;
+    transform: translateX(50px);
+    
+}
+nav ul a li{
+    width: 60%;
+    transform: translateX(50px);
+    list-style: none;
+    padding-bottom: 70px;
+    color: darkgray;
+    
+}
+nav ul a{
+    text-decoration: none;
+}
+    
+
+.menubtn{
+    margin-left: 60px;
+
+}
+
+#nav-bar button{
+    width: 80px;
+    padding: 5px 20px;
+    text-align: center;
+    font-size: 14px;
+    color: #fff;
+    border: none;
+    border-radius: 20px;
+    border: 2px solid ;
+    background-color: red;
+    position: absolute;
+    top: 90%;
+}
+.rightside h2{
+    padding-left: 280px;
+    position: absolute;
+    bottom: 0;
+    top: 15%;
+    font-size: 330%;
+      
+}
+.rightside p{
+    padding-left: 900px;
+    position: absolute;
+    bottom: 0;
+    top: 13%;
+    
+}
+.rightside  .solid{
+    border-top: 3px solid red;
+    width: 50px;
+    position: absolute;
+    top: 26%;
+    transform: translateX(900px);
+   
+}
+nav .solid{
+    border-top: 3px solid red;
+    width: 42px;
+    position: absolute;
+    top: 19%;
+    transform: translateX(50px);
+
+}
+ div.polaroid {
+  width: 200px;
+  height: 230px;
+  box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.2), 0 8px 30px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+  border-radius: 10% 10%;
+  transform: translateX(240px);
+  position: absolute;
+  top: 60%;
+}
+.card1{
+    width: 150px;
+    height: 150px;
+    display: inline-block;
+    border-radius: 75px;
+    transform: translateX(-1%);
+    box-sizing: border-box;
+    cursor: pointer;
+    margin: 10px 15px;
+    background-position: center;
+    background-size: cover;
+    background-image: url(https://previews.123rf.com/images/topntp/topntp1901/topntp190101599/114713911-tacos-with-meat-and-vegetables-mexican-food-style.jpg)
+        
+}
+
+h5{
+    position: absolute;
+    bottom: -30%;
+    text-align: center;
+    transform: translateX(30px);
+}
+
+div.polaroid2 {
+  width: 200px;
+  height: 230px;
+  box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.2), 0 8px 30px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+  border-radius: 10% 10%;
+  transform: translateX(460px);
+  position: absolute;
+  top: 60%;
+
+}
+
+.card2{
+    width: 150px;
+    height: 150px;
+    display: inline-block;
+    border-radius: 75px;
+    transform: translateX(-1%);
+    box-sizing: border-box;
+    cursor: pointer;
+    margin: 10px 15px;
+    background-position: center;
+    background-size: cover;
+    background-image: url(https://images.pexels.com/photos/2619967/pexels-photo-2619967.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260)
+        
+}
+
+div.polaroid3 {
+  width: 200px;
+  height: 230px;
+  box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.2), 0 8px 30px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+  border-radius: 10% 10%;
+  transform: translateX(680px);
+  position: absolute;
+  top: 60%;
+
+}
+
+.card3{
+    width: 150px;
+    height: 150px;
+    display: inline-block;
+    border-radius: 75px;
+    transform: translateX(-1%);
+    box-sizing: border-box;
+    cursor: pointer;
+    margin: 10px 15px;
+    background-position: center;
+    background-size: cover;
+    background-image: url(https://media.gettyimages.com/photos/crispy-chicken-burger-with-a-side-salad-picture-id157585216)
+        
+}
+
+div.polaroid4 {
+  width: 200px;
+  height: 230px;
+  box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.2), 0 8px 30px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+  border-radius: 10% 10%;
+  transform: translateX(900px);
+  position: absolute;
+  top: 60%;
+
+}
+
+
+.card4{
+    width: 150px;
+    height: 150px;
+    display: inline-block;
+    border-radius: 75px;
+    transform: translateX(-1%);
+    box-sizing: border-box;
+    cursor: pointer;
+    margin: 10px 15px;
+    background-position: center;
+    background-size: cover;
+    background-image: url(https://thumbs.dreamstime.com/z/close-up-loaded-nachos-plate-close-up-loaded-nachos-tortilla-chips-topped-melted-creamy-cheese-sauce-corn-crumbled-110637065.jpg)
+        
+}
+
+div.polaroid5 {
+  width: 200px;
+  height: 230px;
+  box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.2), 0 8px 30px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+  border-radius: 10% 10%;
+  transform: translateX(1120px);
+  position: absolute;
+  top: 60%;
+
+}
+
+.card5{
+    width: 150px;
+    height: 150px;
+    display: inline-block;
+    border-radius: 75px;
+    transform: translateX(-1%);
+    box-sizing: border-box;
+    cursor: pointer;
+    margin: 10px 15px;
+    background-position: center;
+    background-size: cover;
+    background-image: url(https://media.istockphoto.com/photos/noodles-picture-id477118120?s=612x612)
+        
+}
+
+
+@media (max-width:700px){
+    .nv-logo h1{
+        text-align: center;
+        transform: translateX(-15px);
+        font-size: 30px;
+    }
+    .rightside h2{
+        width: 60%;
+        font-size: 20px;
+        margin: 80px 40px;
+        right: 30px;
+        top:-2%;
+    }
+    nav ul a li{
+        display: none;
+    }
+    nav .solid{
+        display: none;
+        padding-top: -30px;
+    }
+    #nav-bar button{
+        display: none;
+    }
+    div.polaroid {
+      width: 145px;
+      height: 180px;
+      box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.2), 0 8px 35px 0 rgba(0, 0, 0, 0.19);
+      text-align: center;
+      border-radius: 10% 10%;
+      transform: translateX(15px);
+      position: absolute;
+      top: 23%;
+    }
+    .card1{
+    width: 120px;
+    height: 120px;
+    display: inline-block;
+    border-radius: 75px;
+    transform: translateX(-3%);
+    box-sizing: border-box;
+    cursor: pointer;
+    margin: 10px 15px;
+    background-position: center;
+    background-size: cover;
+    background-image: url(https://previews.123rf.com/images/topntp/topntp1901/topntp190101599/114713911-tacos-with-meat-and-vegetables-mexican-food-style.jpg)
+        
+}
+    h5{
+        transform: translateX(10px);
+    }
+    
+        div.polaroid2 {
+      width: 145px;
+      height: 180px;
+      box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.2), 0 8px 35px 0 rgba(0, 0, 0, 0.19);
+      text-align: center;
+      border-radius: 10% 10%;
+      transform: translateX(175px);
+      position: absolute;
+      top: 23%;
+
+    }
+    .card2{
+    width: 120px;
+    height: 120px;
+    display: inline-block;
+    border-radius: 75px;
+    transform: translateX(-3%);
+    box-sizing: border-box;
+    cursor: pointer;
+    margin: 10px 15px;
+    background-position: center;
+    background-size: cover;
+    background-image: url(https://images.pexels.com/photos/2619967/pexels-photo-2619967.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260)
+        
+}
+    div.polaroid3 {
+      width:145px;
+      height: 180px;
+      box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.2), 0 8px 35px 0 rgba(0, 0, 0, 0.19);
+      text-align: center;
+      border-radius: 10% 10%;
+      transform: translateX(15px);
+      position: absolute;
+      top: 55%;
+
+}
+    .card3{
+    width: 120px;
+    height: 120px;
+    display: inline-block;
+    border-radius: 75px;
+    transform: translateX(-3%);
+    box-sizing: border-box;
+    cursor: pointer;
+    margin: 10px 15px;
+    background-position: center;
+    background-size: cover;
+    background-image: url(https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xs/D-K439.jpg?ver=36.21)
+        
+}
+    div.polaroid4 {
+      width: 145px;
+      height: 180px;
+      box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.2), 0 8px 35px 0 rgba(0, 0, 0, 0.19);
+      text-align: center;
+      border-radius: 10% 10%;
+      transform: translateX(175px);
+      position: absolute;
+      top: 55%;
+
+}
+    .card4{
+    width: 120px;
+    height: 120px;
+    display: inline-block;
+    border-radius: 75px;
+    transform: translateX(-3%);
+    box-sizing: border-box;
+    cursor: pointer;
+    margin: 10px 15px;
+    background-position: center;
+    background-size: cover;
+    background-image: url(https://thumbs.dreamstime.com/z/close-up-loaded-nachos-plate-close-up-loaded-nachos-tortilla-chips-topped-melted-creamy-cheese-sauce-corn-crumbled-110637065.jpg)
+        
+}
+    .rightside p {
+        position: absolute;
+        word-spacing: 4px;
+        padding-left: 10px;
+        top: 87%;
+        right: 30px;
+        font-size: 18px;
+        color: darkgrey;
+
+}
+    div.polaroid5 {
+        display: none;
+    }
+    .card5{
+        display: none;
+    }
+    .rightside  .solid{
+        border-top: 3px solid red;
+        width: 70px;
+        position: absolute;
+        top: 104%;
+        transform: translateX(40px);
+    }
+    .nv-logo h1 p{
+        display: none;
+    }
+    .menuBtn .bi{
+        width: 40px;
+        height: 40px;
+        text-align: center;
+        left: 10px;
+        top: 5px;
+        border-radius: 3px;
+        z-index: 3;
+        position: absolute;
+        color: red;
+        }
+    .cartBtn .bi{
+         width: 40px;
+        height: 40px;
+        text-align: center;
+        right: 10px;
+        top: 5px;
+        border-radius: 3px;
+        z-index: 3;
+        position: absolute;
+        color: red;
+
+   
+        
+
+        
+    }
+    
+    
+    
+    
+}
+    
+.lo{
+
+    text-align: center;
+}
+ 
+
+.text{
+    font-size: large;
+font-family: 'Raleway', sans-serif;
+font-family: 'Ubuntu', sans-serif;
+}
+
+
+.image1{
+
+    width: 100px;
+}
+
+@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
+body,html {
+  height:100%;
+  margin:0;
+  font-family:lato;
+}
+
+h2 {
+  margin-bottom:0px;
+  margin-top:25px;
+  text-align:center;
+  font-weight:200;
+  font-size:19px;
+  font-size:1.2rem;
+  
+}
+.container {
+  height:100%;
+  -webkit-box-pack:center;
+  -webkit-justify-content:center;
+      -ms-flex-pack:center;
+          justify-content:center;
+  -webkit-box-align:center;
+  -webkit-align-items:center;
+      -ms-flex-align:center;
+          align-items:center;
+  display:-webkit-box;
+  display:-webkit-flex;
+  display:-ms-flexbox;
+  display:flex;
+  background:-webkit-linear-gradient(#c5e5e5, #ccddf9);
+  background:linear-gradient(#c9e5e9,#ccddf9);
+}
+.dropdown-select.visible {
+  display:block;
+}
+.dropdown {
+  position:relative;
+}
+ul {
+  margin:0;
+  padding:0;
+}
+ul li {
+  list-style:none;
+  padding-left:10px;
+  cursor:pointer;
+}
+ul li:hover {
+  background:rgba(255,255,255,0.1);
+}
+.dropdown-select {
+  position:absolute;
+  background:#77aaee;
+  text-align:left;
+  box-shadow:0px 3px 5px 0px rgba(0,0,0,0.1);
+  border-bottom-right-radius:5px;
+  border-bottom-left-radius:5px;
+  width:90%;
+  left:2px;
+  line-height:2em;
+  margin-top:2px;
+  box-sizing:border-box;
+}
+.thin {
+  font-weight:400;
+}
+.small {
+  font-size:12px;
+  font-size:.8rem;
+}
+.half-input-table {
+  border-collapse:collapse;
+  width:100%;
+}
+.half-input-table td:first-of-type {
+  border-right:10px solid #4488dd;
+  width:50%;
+}
+.window {
+  height:540px;
+  width:800px;
+  background:#fff;
+  display:-webkit-box;
+  display:-webkit-flex;
+  display:-ms-flexbox;
+  display:flex;
+  box-shadow: 0px 15px 50px 10px rgba(0, 0, 0, 0.2);
+  border-radius:30px;
+  z-index:10;
+}
+.order-info {
+  height:100%;
+  width:50%;
+  padding-left:25px;
+  padding-right:25px;
+  box-sizing:border-box;
+  display:-webkit-box;
+  display:-webkit-flex;
+  display:-ms-flexbox;
+  display:flex;
+  -webkit-box-pack:center;
+  -webkit-justify-content:center;
+      -ms-flex-pack:center;
+          justify-content:center;
+  position:relative;
+}
+.price {
+  bottom:0px;
+  position:absolute;
+  right:0px;
+  color:#4488dd;
+}
+.order-table td:first-of-type {
+  width:25%;
+}
+.order-table {
+    position:relative;
+}
+.line {
+  height:1px;
+  width:100%;
+  margin-top:10px;
+  margin-bottom:10px;
+  background:#ddd;
+}
+.order-table td:last-of-type {
+  vertical-align:top;
+  padding-left:25px;
+}
+.order-info-content {
+  table-layout:fixed;
+
+}
+
+.full-width {
+  width:100%;
+}
+.pay-btn {
+  border:none;
+  background:#22b877;
+  line-height:2em;
+  border-radius:10px;
+  font-size:19px;
+  font-size:1.2rem;
+  color:#fff;
+  cursor:pointer;
+  position:absolute;
+  bottom:25px;
+  width:calc(100% - 50px);
+  -webkit-transition:all .2s ease;
+          transition:all .2s ease;
+}
+.pay-btn:hover {
+  background:#22a877;
+    color:#eee;
+  -webkit-transition:all .2s ease;
+          transition:all .2s ease;
+}
+
+.total {
+  margin-top:25px;
+  font-size:20px;
+  font-size:1.3rem;
+  position:absolute;
+  bottom:30px;
+  right:27px;
+  left:35px;
+}
+.dense {
+  line-height:1.2em;
+  font-size:16px;
+  font-size:1rem;
+}
+.input-field {
+  background:rgba(255,255,255,0.1);
+  margin-bottom:10px;
+  margin-top:3px;
+  line-height:1.5em;
+  font-size:20px;
+  font-size:1.3rem;
+  border:none;
+  padding:5px 10px 5px 10px;
+  color:#fff;
+  box-sizing:border-box;
+  width:100%;
+  margin-left:auto;
+  margin-right:auto;
+}
+.credit-info {
+  background:#4488dd;
+  height:100%;
+  width:50%;
+  color:#eee;
+  -webkit-box-pack:center;
+  -webkit-justify-content:center;
+      -ms-flex-pack:center;
+          justify-content:center;
+  font-size:14px;
+  font-size:.9rem;
+  display:-webkit-box;
+  display:-webkit-flex;
+  display:-ms-flexbox;
+  display:flex;
+  box-sizing:border-box;
+  padding-left:25px;
+  padding-right:25px;
+  border-top-right-radius:30px;
+  border-bottom-right-radius:30px;
+  position:relative;
+}
+.dropdown-btn {
+  background:rgba(255,255,255,0.1);
+  width:100%;
+  border-radius:5px;
+  text-align:center;
+  line-height:1.5em;
+  cursor:pointer;
+  position:relative;
+  -webkit-transition:background .2s ease;
+          transition:background .2s ease;
+}
+.dropdown-btn:after {
+  content: '\25BE';
+  right:8px;
+  position:absolute;
+}
+.dropdown-btn:hover {
+  background:rgba(255,255,255,0.2);
+  -webkit-transition:background .2s ease;
+          transition:background .2s ease;
+}
+.dropdown-select {
+  display:none;
+}
+.credit-card-image {
+  display:block;
+  max-height:80px;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:35px;
+  margin-bottom:15px;
+}
+.credit-info-content {
+  margin-top:25px;
+  -webkit-flex-flow:column;
+      -ms-flex-flow:column;
+          flex-flow:column;
+  display:-webkit-box;
+  display:-webkit-flex;
+  display:-ms-flexbox;
+  display:flex;
+  width:100%;
+}
+@media (max-width: 600px) {
+  .window {
+    width: 100%;
+    height: 100%;
+    display:block;
+    border-radius:0px;
+  }
+  .order-info {
+    width:100%;
+    height:auto;
+    padding-bottom:100px;
+    border-radius:0px;
+  }
+  .credit-info {
+    width:100%;
+    height:auto;
+    padding-bottom:100px;
+    border-radius:0px;
+  }
+  .pay-btn {
+    border-radius:0px;
+  }
+}
